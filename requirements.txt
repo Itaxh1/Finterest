@@ -1,1 +1,12 @@
 langchain
+pandas
+numpy
+requests
+beautifulsoup4
+nltk
+scikit-learn
+pymongo
+newsapi-python
+yfinance
+alpaca-trade-api
+python-dotenv
